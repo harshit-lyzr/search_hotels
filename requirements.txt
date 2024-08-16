@@ -1,0 +1,4 @@
+serpapi
+fastapi
+uvicorn
+python-dotenv
